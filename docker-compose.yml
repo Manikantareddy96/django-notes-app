@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : ritikt2023/my-note-app:latest
+     image :manikanta2804/notes-apps:latest
      ports :
          - "8000:8000"
